@@ -1,5 +1,4 @@
 package IntList;
-
 import java.util.Formatter;
 
 public class IntList {

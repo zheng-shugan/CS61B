@@ -1,5 +1,4 @@
 package Flik;
-
 import org.junit.Test;
 
 public class FilkTest {
